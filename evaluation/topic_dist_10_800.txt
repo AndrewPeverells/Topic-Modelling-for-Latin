@@ -1,0 +1,10 @@
+0	0.5	pater fratres patrem frater patris fratrem puer fili patri patre ioseph nate uideo fratrum parentis iosephe puerum oculis scelus iosephus 
+1	0.5	rex regis regem caput sceptra iura regni regi regum fidem reges fides princeps placet fata sapor iubet regnum causa dedit 
+2	0.5	deus scelus faces dies coelo numen diem coeli furor manus mundi polo caput parens tellus poli lucis mentis coelum astra 
+3	0.5	dolor pectus heu amor animus uita uitae pietas mors malum mentis dies mentem uitam oculos nefas preces manum fata dura 
+4	0.5	deus dei christi christus deum deo actus uitae christo christum opes morte deos uera nomine homines dedit numen domini hominum 
+5	0.5	animo obsecro pater uideo scio domi uerum malum potius dicam animum age hem intro credo uis faciam amplius quaeso pol 
+6	0.5	heus age hodie uis hospes opus uir eia hem uide abi foras audio quaeso audi nescio salue fores habet dabo 
+7	0.5	fidem manus caesar caput arma fides pectus manu mori scelus furor ferro poenas necem caesaris spes consilia manum decet mens 
+8	0.5	heu caput chorus sanguine uiscera uidit artus sedet frustra agros pectore uix sodoma ludit laeta sidera pectora amno foelix oculis 
+9	0.5	ore uenit aetas bona dies forte fames mali domum iussit septem hominum mala spes labor deo sponte breui lege malis 

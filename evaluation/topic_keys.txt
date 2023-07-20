@@ -1,0 +1,10 @@
+0	0.5	manu sanguine perge aras mali matris felix gloria pectore manus pars deorum deos terra flamma dira igne uota dulce manes 
+1	0.5	heu amor dolor nimium fata malis laeta uix pectus oculis tellus pectora nescit saeua potuit terrae ira chorus preces nox 
+2	0.5	hem age heus uis uideo animo fili scio quaeso miser nescio animus uide faciam habeo foras uah opus maxime malum 
+3	0.5	heu scelus furor dolor dies deus caput poli poena mentis poenas uultu sanguine noctis facinus furit crimen uiscera uultus flammas 
+4	0.5	pater fratres patrem frater obsecro hodie fratrem uideo patris filium ioseph puer animo scio intro domi mali certe patri dicam 
+5	0.5	actus dedit hospes uis fores domini manus mentem locum deus christum aurum abi uera solus eia rursus uenit sponte forma 
+6	0.5	uix domum hominum uerum uerbis uita malum potius deum ore mora solet intus animi animum male cito homo uiri fide 
+7	0.5	deus dei uitae nomen uita uitam rex christi morte mortem facit deo fecit regi habet fortuna spes cura mors uiuere 
+8	0.5	caput manus pater coelo deus sceptra princeps astra deo genitor martyr coeli patrem pectus puer patris mundi regna christus genus 
+9	0.5	fidem fides rex caesar regis regem caput mentem causa iura pectus decus nefas coniux manu furor spes moras salus decet 

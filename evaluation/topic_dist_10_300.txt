@@ -1,0 +1,10 @@
+0	0.5	amor dies pars pectus animus dolor mentis uix uitae preces mente oculos domus labor manum cura uota aetas matris iuuat 
+1	0.5	scelus heu caput furor dolor deus dies diem tellus numen faces nefas poli parens mundi coeli mors terra terris lucis 
+2	0.5	miser uis fame age sequar malo uirum malum rogo fames eia ore fide posse bona famem partem ueniat fortuna feci 
+3	0.5	heu chorus uidit uiscera artus actus sanguine tempora amno agros lumina animi pectore sodoma ueneris ludit septem pectora pedes auras 
+4	0.5	deus dei deum actus christi caesar christus mortis dedit deo sacra christo manus morte genus ferre potens christum uitae mente 
+5	0.5	uita pater deus animo animum mali malum hominum mentem uerum animus bona mala fuerit uerba animi potius credo uitam uerbis 
+6	0.5	heus hem age obsecro domi opus uideo uis nescio hodie scio intro factum uerum uide pol hospes habeo foras audio 
+7	0.5	rex fidem fides regis regem caput arma pectus causa regi manus furor reges mentem nefas iura coniux placet iubet mori 
+8	0.5	manus caput coelo sceptra astra martyr manu genitor princeps latus sapor uirtus regna pater decus deo ora patris regum fata 
+9	0.5	pater fratres patrem frater fratrem patris puer fili uideo ioseph patri patre fratrum miser miserum uiuit scio iosephe puerum obsecro 

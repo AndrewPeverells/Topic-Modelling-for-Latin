@@ -1,0 +1,10 @@
+0	0.5	caput caesar dei christi martyr coelo manus deos numen christus actus miles deo decus sceptra manu sapor arma sacra christo 
+1	0.5	fata dies diem deus pectus regum mundi tellus manus mentis tenet terra pars faces parens iubar furor genus poli lucis 
+2	0.5	deus scelus deo facinus sceleris nefas preces poena deum tempus ore frustra manu ira uitae longa uerba membra genus domum 
+3	0.5	fidem rex fides regis regem pectus spes caput mentem causa iura regni coniux decet placet regi animum dolor mens certa 
+4	0.5	animum gratia amorem homines uides iure facit habet uir mentem manibus uera supra ueniat amor mala legibus placet amore actus 
+5	0.5	dei malis dapes septem uiam nomen soror deus bona loco corpus habet manu damna sola forte fames pedes uale dies 
+6	0.5	pater frater patrem puer uitae patri patris heu genitor mori manus fratrem miser mortem fratres ite dolor potes mater parentis 
+7	0.5	heu sanguine dolor caput artus nimium chorus uidit uiscera lumina pectora pectore ignes tempora penitus amno comas funera agros actus 
+8	0.5	pater scio uideo fratres animo obsecro nescio fili hem patrem intro credo miser certe uerum dicam malum faciam age amplius 
+9	0.5	heus opus age domi ioseph uis uita hospes hodie foras dabo domum intus decet uerum animi factum uenit audio hem 

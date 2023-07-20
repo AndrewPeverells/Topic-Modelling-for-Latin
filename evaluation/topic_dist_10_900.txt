@@ -1,0 +1,10 @@
+0	0.5	pater patris manus patrem frater genitor princeps puer caput crimen uitam sapor pectus patri manu sceptra regni rex mortem parce 
+1	0.5	fidem fides rex regis scelus nefas regem dolor furor pectus caput heu coniux dabit iura decet patriae mens caesar ira 
+2	0.5	amor mentem animum uitae malis amoris uita uoluptas ore mentis amore aetas habet malum domum amorem nimium dies mala iure 
+3	0.5	deus caput coelo numen manus deo faces caesar furor martyr coeli mortis deum decus coelum dei genus pectus sacra mentis 
+4	0.5	animo pater obsecro scio domi hem uerum uideo ioseph miser malum potius opus age nescio uis amplius dicam faciam fili 
+5	0.5	deus dei uera deo christi nomen hominum nomine actus domini homines deum uiros christum morte boni dominum uitae dominus spes 
+6	0.5	heu dolor scelus sanguine artus uiscera deus caput pectore chorus frustra miser eheu nimium amno dirum manes pectora sodoma crudelis 
+7	0.5	uis age heus hospes hodie eia uide quaeso agis fores uolo dabo habet actus opus habeo auro hem nomen uenit 
+8	0.5	fratres pater puer fratrem frater patrem patri nescio iosephe scio puerum uiri hodie fames uiuit iosephus fratribus carcerem patre septem 
+9	0.5	diem fata dies tellus terra pars phoebus turba uices regum uiam noctis uix felix auras nocte uota uidet regna iubar 
